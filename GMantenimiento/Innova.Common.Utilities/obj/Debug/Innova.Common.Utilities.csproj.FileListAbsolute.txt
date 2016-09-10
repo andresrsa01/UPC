@@ -1,0 +1,44 @@
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Utilities\obj\Debug\Innova.Common.Utilities.csprojResolveAssemblyReference.cache
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Utilities\bin\Debug\Innova.Common.Utilities.dll
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Utilities\bin\Debug\Innova.Common.Utilities.pdb
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Utilities\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Utilities\bin\Debug\itextsharp.dll
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Utilities\bin\Debug\log4net.dll
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Utilities\bin\Debug\NPOI.dll
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Utilities\bin\Debug\NPOI.OOXML.dll
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Utilities\bin\Debug\NPOI.OpenXml4Net.dll
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Utilities\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Utilities\bin\Debug\itextsharp.xml
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Utilities\bin\Debug\log4net.xml
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Utilities\bin\Debug\NPOI.xml
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Utilities\obj\Debug\Innova.Common.Utilities.dll
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Utilities\obj\Debug\Innova.Common.Utilities.pdb
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Utilities\bin\Debug\Innova.Common.Utilities.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Utilities\bin\Debug\Innova.Common.Utilities.pdb
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Utilities\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Utilities\bin\Debug\itextsharp.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Utilities\bin\Debug\log4net.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Utilities\bin\Debug\NPOI.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Utilities\bin\Debug\NPOI.OOXML.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Utilities\bin\Debug\NPOI.OpenXml4Net.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Utilities\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Utilities\bin\Debug\itextsharp.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Utilities\bin\Debug\log4net.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Utilities\bin\Debug\NPOI.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Utilities\obj\Debug\Innova.Common.Utilities.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Utilities\obj\Debug\Innova.Common.Utilities.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Utilities\bin\Debug\Innova.Common.Utilities.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Utilities\bin\Debug\Innova.Common.Utilities.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Utilities\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Utilities\bin\Debug\itextsharp.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Utilities\bin\Debug\log4net.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Utilities\bin\Debug\NPOI.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Utilities\bin\Debug\NPOI.OOXML.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Utilities\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Utilities\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Utilities\bin\Debug\itextsharp.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Utilities\bin\Debug\log4net.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Utilities\bin\Debug\NPOI.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Utilities\obj\Debug\Innova.Common.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Utilities\obj\Debug\Innova.Common.Utilities.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Utilities\obj\Debug\Innova.Common.Utilities.pdb

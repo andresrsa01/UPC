@@ -1,0 +1,21 @@
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.pdb
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\bin\Debug\Innova.Common.Core.Entities.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\bin\Debug\Innova.Common.Core.Entities.pdb
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.csprojResolveAssemblyReference.cache
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.pdb
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.pdb
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\bin\Debug\Innova.Common.Core.Entities.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\bin\Debug\Innova.Common.Core.Entities.pdb
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\bin\Debug\Innova.Common.Core.Entities.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\bin\Debug\Innova.Common.Core.Entities.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.csprojResolveAssemblyReference.cache
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.pdb

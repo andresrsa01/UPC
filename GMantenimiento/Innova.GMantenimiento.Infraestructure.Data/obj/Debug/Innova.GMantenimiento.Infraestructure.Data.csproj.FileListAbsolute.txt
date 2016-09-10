@@ -1,0 +1,46 @@
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.csprojResolveAssemblyReference.cache
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.dll.config
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.pdb
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\EntityFramework.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.Common.Core.Entities.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.Common.Core.ORM.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.Common.Core.Entities.pdb
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.Common.Core.ORM.pdb
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\EntityFramework.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.pdb
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.pdb
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.dll.config
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.pdb
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.Common.Core.Entities.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.Common.Core.ORM.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.Common.Core.Entities.pdb
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.Common.Core.ORM.pdb
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.pdb
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.dll.config
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\EntityFramework.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.Common.Core.Entities.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.Common.Core.ORM.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.Common.Core.Entities.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.Common.Core.ORM.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\EntityFramework.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.csprojResolveAssemblyReference.cache
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.pdb

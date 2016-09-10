@@ -1,0 +1,29 @@
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.Entities\bin\Debug\Innova.Common.Core.Entities.dll.config
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.Entities\bin\Debug\Innova.Common.Core.Entities.dll
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.Entities\bin\Debug\Innova.Common.Core.Entities.pdb
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.Entities\bin\Debug\EntityFramework.dll
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.Entities\bin\Debug\EntityFramework.xml
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.Entities\obj\Debug\Innova.Common.Core.Entities.dll
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.Entities\obj\Debug\Innova.Common.Core.Entities.pdb
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.Entities\obj\Debug\Innova.Common.Core.Entities.csprojResolveAssemblyReference.cache
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Core.Entities\bin\Debug\Innova.Common.Core.Entities.dll.config
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Core.Entities\bin\Debug\Innova.Common.Core.Entities.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Core.Entities\bin\Debug\Innova.Common.Core.Entities.pdb
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Core.Entities\bin\Debug\EntityFramework.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Core.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Core.Entities\bin\Debug\EntityFramework.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Core.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Core.Entities\obj\Debug\Innova.Common.Core.Entities.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Core.Entities\obj\Debug\Innova.Common.Core.Entities.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.Entities\bin\Debug\Innova.Common.Core.Entities.dll.config
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.Entities\bin\Debug\Innova.Common.Core.Entities.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.Entities\bin\Debug\Innova.Common.Core.Entities.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.Entities\bin\Debug\EntityFramework.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.Entities\bin\Debug\EntityFramework.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.Entities\obj\Debug\Innova.Common.Core.Entities.csprojResolveAssemblyReference.cache
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.Entities\obj\Debug\Innova.Common.Core.Entities.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.Entities\obj\Debug\Innova.Common.Core.Entities.pdb

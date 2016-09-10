@@ -1,0 +1,36 @@
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.ORM\bin\Debug\Innova.Common.Core.ORM.dll.config
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.ORM\bin\Debug\Innova.Common.Core.ORM.dll
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.ORM\bin\Debug\Innova.Common.Core.ORM.pdb
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.ORM\bin\Debug\EntityFramework.dll
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.ORM\bin\Debug\Innova.Common.Core.Entities.dll
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.ORM\bin\Debug\Innova.Common.Core.Entities.pdb
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.ORM\bin\Debug\EntityFramework.xml
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.ORM\obj\Debug\Innova.Common.Core.ORM.csprojResolveAssemblyReference.cache
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.ORM\obj\Debug\Innova.Common.Core.ORM.dll
+C:\InnovaSchools\Innova.Common.Core.ORM\Innova.Common.Core.ORM\obj\Debug\Innova.Common.Core.ORM.pdb
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\Innova.Common.Core.ORM.dll.config
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\Innova.Common.Core.ORM.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\Innova.Common.Core.ORM.pdb
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\EntityFramework.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\Innova.Common.Core.Entities.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\Innova.Common.Core.Entities.pdb
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\EntityFramework.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Core.ORM\obj\Debug\Innova.Common.Core.ORM.csprojResolveAssemblyReference.cache
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Core.ORM\obj\Debug\Innova.Common.Core.ORM.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.Common.Core.ORM\obj\Debug\Innova.Common.Core.ORM.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\Innova.Common.Core.ORM.dll.config
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\Innova.Common.Core.ORM.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\Innova.Common.Core.ORM.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\EntityFramework.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\Innova.Common.Core.Entities.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\Innova.Common.Core.Entities.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\EntityFramework.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.ORM\obj\Debug\Innova.Common.Core.ORM.csprojResolveAssemblyReference.cache
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.ORM\obj\Debug\Innova.Common.Core.ORM.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.ORM\obj\Debug\Innova.Common.Core.ORM.pdb
