@@ -1,0 +1,392 @@
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\obj\Debug\Innova.GMantenimiento.MVC.csprojResolveAssemblyReference.cache
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\ApplicationInsights.config
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\csc.exe
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\vbc.exe
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\VBCSCompiler.exe
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.MVC.dll.config
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.MVC.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.MVC.pdb
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Antlr3.Runtime.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\EntityFramework.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\EntityFramework.SqlServer.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Core.Entities.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Domain.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.Web.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Newtonsoft.Json.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Owin.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Helpers.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Mvc.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Optimization.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Razor.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.Razor.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\WebGrease.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Infraestructure.Data.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Utilities.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Core.ORM.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\log4net.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\itextsharp.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Core.Entities.pdb
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Domain.pdb
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.pdb
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.Web.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Mvc.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Helpers.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Optimization.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Razor.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.Razor.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Antlr3.Runtime.pdb
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Newtonsoft.Json.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\EntityFramework.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\EntityFramework.SqlServer.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Infraestructure.Data.pdb
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Utilities.pdb
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Core.ORM.pdb
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\log4net.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\bin\itextsharp.xml
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\obj\Debug\Innova.GMantenimiento.MVC.dll
+C:\tp3\TP3_v1\GMantenimiento\Innova.GMantenimiento.MVC\obj\Debug\Innova.GMantenimiento.MVC.pdb
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\ApplicationInsights.config
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.MVC.dll.config
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.MVC.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.MVC.pdb
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Core.Entities.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Domain.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Owin.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Razor.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Infraestructure.Data.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Utilities.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Core.ORM.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\log4net.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\itextsharp.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Core.Entities.pdb
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Domain.pdb
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.pdb
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Razor.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Infraestructure.Data.pdb
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Utilities.pdb
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Core.ORM.pdb
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\log4net.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\bin\itextsharp.xml
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\obj\Debug\Innova.GMantenimiento.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\obj\Debug\Innova.GMantenimiento.MVC.dll
+C:\Users\Usuario\Desktop\tp\GMantenimiento\Innova.GMantenimiento.MVC\obj\Debug\Innova.GMantenimiento.MVC.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\ApplicationInsights.config
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\csc.exe
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\vbc.exe
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.MVC.dll.config
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.MVC.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.MVC.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Antlr3.Runtime.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\EntityFramework.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Core.Entities.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Domain.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Newtonsoft.Json.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Owin.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Helpers.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Mvc.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Optimization.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Razor.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\WebGrease.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Infraestructure.Data.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Utilities.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Core.ORM.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\log4net.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\itextsharp.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Core.Entities.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Domain.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Mvc.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Helpers.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Optimization.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Razor.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Newtonsoft.Json.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\EntityFramework.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Infraestructure.Data.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Utilities.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Core.ORM.pdb
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\log4net.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\bin\itextsharp.xml
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\obj\Debug\Innova.GMantenimiento.MVC.csprojResolveAssemblyReference.cache
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\obj\Debug\Innova.GMantenimiento.MVC.dll
+C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.MVC\obj\Debug\Innova.GMantenimiento.MVC.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\ApplicationInsights.config
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\csc.exe
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\vbc.exe
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.MVC.dll.config
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.MVC.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.MVC.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Antlr3.Runtime.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\EntityFramework.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Core.Entities.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Domain.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Newtonsoft.Json.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Owin.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Helpers.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Mvc.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Optimization.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Razor.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\WebGrease.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Infraestructure.Data.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Utilities.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Core.ORM.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\log4net.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\itextsharp.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Core.Entities.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Domain.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Mvc.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Helpers.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Optimization.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.Razor.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Newtonsoft.Json.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\EntityFramework.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.GMantenimiento.Infraestructure.Data.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Utilities.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\Innova.Common.Core.ORM.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\log4net.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\bin\itextsharp.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\obj\Debug\Innova.GMantenimiento.MVC.csprojResolveAssemblyReference.cache
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\obj\Debug\Innova.GMantenimiento.MVC.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.MVC\obj\Debug\Innova.GMantenimiento.MVC.pdb

@@ -42,3 +42,18 @@ C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\In
 C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Utilities\obj\Debug\Innova.Common.Utilities.csprojResolveAssemblyReference.cache
 C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Utilities\obj\Debug\Innova.Common.Utilities.dll
 C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Utilities\obj\Debug\Innova.Common.Utilities.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Utilities\bin\Debug\Innova.Common.Utilities.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Utilities\bin\Debug\Innova.Common.Utilities.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Utilities\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Utilities\bin\Debug\itextsharp.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Utilities\bin\Debug\log4net.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Utilities\bin\Debug\NPOI.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Utilities\bin\Debug\NPOI.OOXML.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Utilities\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Utilities\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Utilities\bin\Debug\itextsharp.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Utilities\bin\Debug\log4net.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Utilities\bin\Debug\NPOI.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Utilities\obj\Debug\Innova.Common.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Utilities\obj\Debug\Innova.Common.Utilities.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Utilities\obj\Debug\Innova.Common.Utilities.pdb

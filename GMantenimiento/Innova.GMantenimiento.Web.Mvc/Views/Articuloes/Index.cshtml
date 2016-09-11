@@ -1,0 +1,51 @@
+﻿@model IEnumerable<GMSTp2.DataModel.Articulo>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NomArticulo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UnidMedida)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Modelo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Observacion)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NomArticulo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UnidMedida)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Modelo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Observacion)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.CodArticulo }) |
+            @Html.ActionLink("Details", "Details", new { id=item.CodArticulo }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.CodArticulo })
+        </td>
+    </tr>
+}
+
+</table>

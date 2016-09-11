@@ -27,3 +27,13 @@ C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\In
 C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.Entities\obj\Debug\Innova.Common.Core.Entities.csprojResolveAssemblyReference.cache
 C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.Entities\obj\Debug\Innova.Common.Core.Entities.dll
 C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.Entities\obj\Debug\Innova.Common.Core.Entities.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.Entities\bin\Debug\Innova.Common.Core.Entities.dll.config
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.Entities\bin\Debug\Innova.Common.Core.Entities.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.Entities\bin\Debug\Innova.Common.Core.Entities.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.Entities\bin\Debug\EntityFramework.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.Entities\bin\Debug\EntityFramework.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.Entities\obj\Debug\Innova.Common.Core.Entities.csprojResolveAssemblyReference.cache
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.Entities\obj\Debug\Innova.Common.Core.Entities.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.Entities\obj\Debug\Innova.Common.Core.Entities.pdb

@@ -11,9 +11,9 @@ namespace Innova.GMantenimiento.Infraestructure.Data
     public class DA_CotizacionDet
     {
         DataModel db = new DataModel();
-        public void RegistrarCotizacionDet(tb_SolCotizacionDet entidad)
+        public void RegistrarCotizacionDet(tb_CotizacionDet entidad)
         {
-            db.tb_SolCotizacionDet.Add(entidad);
+            db.tb_CotizacionDet.Add(entidad);
             db.SaveChanges();
         }
     }

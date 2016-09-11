@@ -211,6 +211,7 @@
     <Compile Include="Models\CotizacionDet.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\SolCotizacion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
@@ -335,6 +336,9 @@
     <Content Include="Views\Adquisicion\NuevoAdquisicion.cshtml" />
     <Content Include="Views\Adquisicion\RegistrarArticulos.cshtml" />
     <Content Include="Views\Cotizacion\RegistrarCotizacion.cshtml" />
+    <Content Include="Views\Cotizacion\ListadoCotizacion.cshtml" />
+    <Content Include="Views\Cotizacion\ListadoSolCotizacion.cshtml" />
+    <Content Include="Views\Cotizacion\VerCotizacion.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

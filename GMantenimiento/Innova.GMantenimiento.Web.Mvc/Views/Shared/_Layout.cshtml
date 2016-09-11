@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <title>.:: @ViewBag.Title - Innova Schools ::.</title>
+    <link href="../Content/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="../Content/css/skin.css" rel="stylesheet" type="text/css" />
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)  
+</head>
+<body class="skin-gym bar-white">
+    <section class="wrap-ui">
+        <!--<header>-->
+        <header class="header">
+            <div class="pull-left">
+                <div class="logo-data">
+                    <img src="../Content/images/system/innova_schools-logo.png" width="90px" />
+                </div>
+            </div>
+            <div class="pull-right">
+                <div class="pull-left comp-btn-user">
+                    <button id="btnGroupDrop2" type="button" class="btn">
+                        <span class="ico-user"></span>
+                        <span class="name">@TempData["viewbag_username"]</span>
+                    </button>
+                </div>
+                <div class="pull-left">
+                    <a href="#" class="btn-salir"></a>
+                </div>
+            </div>
+        </header>
+        <!--</header>-->
+        <!-- nav -->
+        <div class="menu">
+            <a class="btn-show"></a>
+            <a class="logo" href="#">
+                <img src="../Content/images/system/innova_schools-logo.png" alt="Logo">
+            </a>
+            <nav class="nav">
+                @Html.Partial("_MenuGMS")
+            </nav>
+        </div>
+        <!-- cierra nav -->
+        <!--<wrap-content>-->
+        <div class="wrap-content">
+            <!--</main-aside>-->
+            <!--<pull-main-content>-->
+            <div class="pull-main-content">
+                <!--<main-content>-->
+                <div class="main-content view-wrap">
+                    @RenderBody()
+                </div>
+                <!--</main-content>-->
+                <div class="footer">
+                    <strong>&copy; Proyecto Academico UPC </strong> 
+                </div>
+            </div>
+            <!--</pull-main-content>-->
+        </div>
+        <!--</wrap-content>-->
+        <div class="up-page upPage"><span class="glyphicon glyphicon-chevron-up"></span></div>
+    </section>
+    <!--JS-->
+    <script type="text/javascript" src="../Scripts/bootstrap-jquery-ui/js/bootstrap.js"></script>
+    <script type="text/javascript" src="../Scripts/app/jquery.mCustomScrollbar.js"></script>
+    <script type="text/javascript" src="../Scripts/app/common.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+            generales();
+            removeMenuPanel();
+        });
+
+         
+
+    </script>
+</body>
+</html>

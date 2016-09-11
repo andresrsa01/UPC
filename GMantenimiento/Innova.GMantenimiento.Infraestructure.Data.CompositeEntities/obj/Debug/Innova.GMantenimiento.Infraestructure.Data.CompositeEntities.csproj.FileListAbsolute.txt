@@ -19,3 +19,10 @@ C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\In
 C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.csprojResolveAssemblyReference.cache
 C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.dll
 C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\bin\Debug\Innova.Common.Core.Entities.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\bin\Debug\Innova.Common.Core.Entities.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.csprojResolveAssemblyReference.cache
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.pdb

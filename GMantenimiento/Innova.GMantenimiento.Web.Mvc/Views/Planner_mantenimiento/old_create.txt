@@ -1,0 +1,321 @@
+﻿@model GMSTp2.DataModel.Planner_mantenimiento
+
+@{
+    ViewBag.Title = "Create";
+}
+
+ 
+
+<h2>Create</h2>
+
+
+@using (Html.BeginForm("Create", "Planner_mantenimiento"))
+{
+
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Planner_mantenimiento</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.codigo, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.codigo, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.codigo, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.FechaInicio, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="text" id="FechaInicio" name="FechaInicio" />
+                <script>
+                          $( function() {
+                              $("#FechaInicio").datepicker({
+                                  onSelect: function (dateText, inst) {
+                                      try {
+                                          var date2 = $('#FechaInicio').datepicker('getDate', '+1d');
+                                          var dia_inicial = date2.getDate();
+                                          date2.setDate(date2.getDate() + 6);
+                                          console.log(date2);
+                                          $('#FechaFin').datepicker('setDate', date2);
+
+                                          //Generado el codigo de los planner
+                                          var d = new Date();
+                                          var codplanner = "";
+                                          codplanner = d.getFullYear() + "" + Lpad(d.getMonth(),3,"0") + "-" + Lpad(dia_inicial,3,"0") + "-" + Lpad(date2.getDate(),3,"0");
+
+                                          //seteando los valores viewbag
+                                          $("#codigo").val(codplanner);
+                                          $('#viewbag_codigo').val(codplanner);
+                                          $('#viewbag_fechainicio').val($('#FechaInicio').val());
+                                          $('#viewbag_fechafin').val($('#FechaFin').val());
+                                          $('#viewbag_codperiodo').val($('#CodPeriodo').val());
+                                          $('#viewbag_codplanner').val(codplanner);
+
+                                          //configurando los dias a mostrar
+                                          ConfigurarDias(dia_inicial, date2.getDate());
+
+                                      } catch (e) {
+                                          console.log("error");
+                                          console.log(e);
+                                      }
+                                  },
+                                  dateFormat: 'yy-mm-dd'
+                              });
+
+                          });
+
+
+                </script>
+
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.FechaFin, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="text" id="FechaFin" name="FechaFin" />
+                <script>
+                    $( function() {
+                        $("#FechaFin").datepicker({ dateFormat: 'yy-mm-dd' });
+                    });
+                    </script>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CodPeriodo, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("CodPeriodo",
+new GMSTp2.WebSite.Controllers.Periodo_AcademicoController().Combo(),
+"Select state",
+new { @class = "form-control", @value = new GMSTp2.WebSite.Controllers.Periodo_AcademicoController().ObtenerActual().CodPeriodo })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CodEstado, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="hidden" id="CodEstado" name="CodEstado" value="1" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" onclick="javascript: return confirm('Desea Guardar la Generación de Planner?');" />
+            </div>
+        </div>
+    </div>
+}
+
+<hr />
+<h4>Programacion de Planner</h4>
+<Br>
+
+
+@using (Html.BeginForm("AgregarItem", "Planner_mantenimiento"))
+{
+    @Html.AntiForgeryToken()
+    <table>
+        <thead>
+            <tr>
+                <td>
+                    #
+                </td>
+                <td>
+                    Fecha
+                </td>
+                <td>
+                    Instalacion
+                </td>
+                <td>
+                    Tarea a Realizar
+                </td>
+                <td>
+                    Material a Utilizar
+                </td>
+                <td>
+                    Cantidad
+                </td>
+                <td>
+                    Opciones
+                </td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    #
+@if (TempData["viewbag_hasvalues"] != null)
+{
+                    <input type="hidden" id="viewbag_codigo" name="viewbag_codigo" value="@TempData["viewbag_codigo"].ToString()" />
+                    <input type="hidden" id="viewbag_fechainicio" name="viewbag_fechainicio" value="@TempData["viewbag_fechainicio"].ToString()" />
+                    <input type="hidden" id="viewbag_fechafin" name="viewbag_fechafin" value="@TempData["viewbag_fechafin"].ToString()" />
+                    <input type="hidden" id="viewbag_codperiodo" name="viewbag_codperiodo" value="@TempData["viewbag_codperiodo"].ToString()" />
+                    <input type="hidden" id="viewbag_codplanner" name="viewbag_codplanner" value="@TempData["viewbag_codplanner"].ToString()" />
+}
+else
+{
+
+    <input type="hidden" id="viewbag_codigo" name="viewbag_codigo" value="0" />
+                    <input type="hidden" id="viewbag_fechainicio" name="viewbag_fechainicio"  value="0" />
+                    <input type="hidden" id="viewbag_fechafin" name="viewbag_fechafin"  value="0" />
+                    <input type="hidden" id="viewbag_codperiodo" name="viewbag_codperiodo"  value="0" />
+                    <input type="hidden" id="viewbag_codplanner" name="viewbag_codplanner"  value="0" />
+}
+                </td>
+                <td>
+                    <select type="text" id="fecha_tentantiva_programacion" name="fecha_tentantiva_programacion" />
+                    <script> 
+                </script>
+                </td>
+                <td>
+                    @Html.DropDownList("CodInstalacion",
+new GMSTp2.WebSite.Controllers.InstalacionsController().Combo(),
+"Select state",
+new { @class = "form-control" })
+                </td>
+                <td>
+                    @Html.DropDownList("CodTarea",
+new GMSTp2.WebSite.Controllers.TareaController().Combo(),
+"Select state",
+new { @class = "form-control" })
+                </td>
+                <td>
+                    @Html.DropDownList("CodArticulo",
+new GMSTp2.WebSite.Controllers.ArticuloesController().Combo(),
+"Select state",
+new { @class = "form-control" })
+                </td>
+                <td>
+                    <input type="text" id="cantidad" name="cantidad" value="1" />
+                </td>
+                <td>
+                    <input type="submit" value="Agregar" id="AgregarItem" name="AgregarItem" class="btn btn-default" />
+                </td>
+            </tr>
+        </tbody>
+        @{ int contador_item = 0;}
+        <tbody>
+            @foreach (GMSTp2.DataModel.Auxiliares.Planner.ItemAtencionPlanner item in (List<GMSTp2.DataModel.Auxiliares.Planner.ItemAtencionPlanner>)Session["programacion"])
+            { 
+                                
+                <tr>
+                    <td>
+                        @String.Format("N° {0}", item.CodPlanner)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.fecha_tentantiva_programacion)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => new GMSTp2.WebSite.Controllers.InstalacionsController().Obtener(item.CodInstalacion).NomInstalacion)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => new GMSTp2.WebSite.Controllers.TareaController().Obtener(item.CodTarea).NomTarea)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => new GMSTp2.WebSite.Controllers.ArticuloesController().Obtener(item.CodArticulo).NomArticulo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.cantidad)
+                    </td>
+                    <td>
+                        @Html.ActionLink(
+             "Eliminar",                                                  // linkText
+             "EliminarItem",                                    // actionName
+             "Planner_mantenimiento",
+             new
+             {                                                     // htmlAttributes
+                 secuencial = item.secuencial
+             }, new { onclick = "return confirm('Desea Eliminar el Registro?');" }) 
+          
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+            }
+
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+
+
+@if (TempData["viewbag_hasvalues"] != null)
+{
+    <script language="JavaScript">
+        $("#codigo").val('@TempData["viewbag_codigo"].ToString()');
+        var dFecIni = new Date("@TempData["viewbag_fechainicio"].ToString()");
+        $('#fechainicio').datepicker('setDate', dFecIni);
+        var dFecFin = new Date("@TempData["viewbag_fechafin"].ToString()");
+        $('#fechafin').datepicker('setDate', dFecFin); 
+        $('#codperiodo').val('@TempData["viewbag_codperiodo"].ToString()');
+    </script>
+}
+
+<script type="text/javascript">
+    $(function () {
+        $("#codperiodo").change(function () {
+            var selectedValue = $(this).val();
+            $('#viewbag_codperiodo').val(selectedvalue);
+        });
+    });
+</script>
+
+<script language="JavaScript">
+
+    function Lpad(valor, cantidad, caracter) {
+        var cadena = "";
+        for (i = 0; i < cantidad;i++){
+            cadena= caracter + "" + cadena;
+        }
+        return cadena.substring(0, cadena.length - valor.length) + valor;
+    }
+
+
+    function ConfigurarDias(DiaInicio, DiaFinal) {
+        try {
+            var fecha = new Date();
+            var a = moment([fecha.getFullYear(), fecha.getMonth(), DiaInicio]);
+            var fecha_inicial = moment([fecha.getFullYear(), fecha.getMonth(), DiaInicio]);
+
+            console.log("dia inicial" + a);
+
+            var b = moment([fecha.getFullYear(), fecha.getMonth(), DiaFinal]);
+             
+            console.log("dia final" + b);
+
+            console.log("entra a moment");
+            console.log("diferencias " + Math.abs(a.diff(b, 'days')));
+            var diferencia = Math.abs(a.diff(b, 'days'));
+
+            for (i = 0 ; i <= diferencia ; i++) {
+
+                $('#fecha_tentantiva_programacion').append($('<option>',
+                {
+                    value: "" + fecha.getFullYear() + "-" + fecha.getMonth() + "-" + fecha_inicial.date() + "",
+                    text: fecha.getFullYear() + "-" + fecha.getMonth() + "-" + fecha_inicial.date()
+                }));
+                fecha_inicial=fecha_inicial.add(1, 'days');
+            }
+
+            
+
+        } catch (e) {
+            console.log(e);
+        }
+
+    }
+
+</script>
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

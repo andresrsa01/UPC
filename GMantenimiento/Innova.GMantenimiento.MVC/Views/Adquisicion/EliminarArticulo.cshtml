@@ -1,0 +1,39 @@
+﻿@{
+    Layout = null;
+}
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Sel</th>
+            <th>Codigo Articulo</th>
+            <th>Descripcion</th>
+            <th>Marca</th>
+            <th>Proveedor</th>
+            <th>Unidad de Medida</th>
+            <th>Cantidad</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Innova.Modulo.Web.Mvc.Models.ArticuloModel item in ViewBag.ListaArticulosAgregados)
+        {
+            <tr>
+                <td>
+                    <input type="radio" class="radio" name="optionsRadios" id="optionsRadios_@item.CodArticulo" value="@item.CodArticulo" onclick="javascript: SelectArticulo(this);">
+                </td>
+                <td>@item.CodArticulo</td>
+                <td>@item.Descripcion</td>
+                <td>@item.Marca</td>
+                <td>@item.Modelo</td>
+                <td>@item.UnidadMedida</td>
+                <td>@item.Cantidad</td>
+
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+

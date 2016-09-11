@@ -9,7 +9,7 @@ namespace Innova.Common.Core.ORM
     public partial class DataModel : DbContext
     {
         public DataModel()
-            : base("name=DataModel")
+            : base("name=DataModelo")
         {
         }
 
@@ -17,6 +17,8 @@ namespace Innova.Common.Core.ORM
         public virtual DbSet<tb_Articulo> tb_Articulo { get; set; }
         public virtual DbSet<tb_Asignatura> tb_Asignatura { get; set; }
         public virtual DbSet<tb_Calidad_Mantenimiento> tb_Calidad_Mantenimiento { get; set; }
+        public virtual DbSet<tb_Cotizacion> tb_Cotizacion { get; set; }
+        public virtual DbSet<tb_CotizacionDet> tb_CotizacionDet { get; set; }
         public virtual DbSet<tb_Departamento> tb_Departamento { get; set; }
         public virtual DbSet<tb_Documento> tb_Documento { get; set; }
         public virtual DbSet<tb_Empleado> tb_Empleado { get; set; }
@@ -101,6 +103,10 @@ namespace Innova.Common.Core.ORM
                 .WillCascadeOnDelete(false);
 
             modelBuilder.Entity<tb_Calidad_Mantenimiento>()
+                .Property(e => e.CodEstado)
+                .IsUnicode(false);
+
+            modelBuilder.Entity<tb_Cotizacion>()
                 .Property(e => e.CodEstado)
                 .IsUnicode(false);
 

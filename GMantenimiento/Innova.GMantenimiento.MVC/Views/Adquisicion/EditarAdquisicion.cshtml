@@ -1,0 +1,288 @@
+﻿@model Innova.Modulo.Web.Mvc.Models.SolicitudAdquisionModel
+
+@{
+    ViewBag.Title = "EditarAdquisicion";
+}
+
+<div class="content-body">
+
+    <h2>EditarAdquisicion</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <div>
+                <dl class="dl-horizontal">
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.CodSolAdquisicion)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.CodSolAdquisicion)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Solicitante)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Solicitante)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.FechaEmision)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.FechaEmision)
+                    </dd>
+                </dl>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.CodEstado, "Estado", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownList("CodEstado", null, htmlAttributes: new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.CodEstado, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.NroInforme, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.NroInforme, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.NroInforme, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Observacion, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Observacion, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Observacion, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+        </div>
+
+        <h4>BUSQUEDA DE ARTICULOS</h4>
+
+        <div id="ListaArticulos">
+            <h4>Lista de Articulos </h4>
+            <button id="btnModalArticulo" type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#myModal">
+                Buscar
+            </button>
+
+            <div id="ListaArticulosAdquisicion">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Sel</th>
+                            <th>Codigo Articulo</th>
+                            <th>Descripcion</th>
+                            <th>Marca</th>
+                            <th>Proveedor</th>
+                            <th>Unidad de Medida</th>
+                            <th>Cantidad</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Innova.Modulo.Web.Mvc.Models.ArticuloModel item in ViewBag.ListaArticulosAgre)
+                        {
+                            <tr>
+                                <td>
+                                    <input type="radio" class="radio" name="optionsRadios" id="optionsRadios_@item.CodArticulo" value="@item.CodArticulo" onclick="javascript: SelectArticulo(this);">
+                                </td>
+                                <td>@item.CodArticulo</td>
+                                <td>@item.Descripcion</td>
+                                <td>@item.Marca</td>
+                                <td>@item.Modelo</td>
+                                <td>@item.UnidadMedida</td>
+                                <td>@item.Cantidad</td>
+                            </tr>
+                        }
+                    </tbody>
+
+                </table>
+
+
+
+            </div>
+
+        </div>
+        <br />
+        <div class="col-md-offset-2 col-md-10">
+            <input type="button" value="Eliminar Articulo" id="btlEliminarArticulo" class="btn btn-default" />
+        </div>
+
+        <br />
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    }
+
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <table>
+                        <tr>
+                            <td>
+                                @*@Html.Label("CodArticulo", "Codigo:")
+                                    @Html.TextBox("CodArticulo")*@
+                                <label>Codigo:</label>
+                                <input type="text" maxlength="10" id="txtCodArticulo" />
+                            </td>
+                            <td>
+                                <label>Descripcion:</label>
+                                <input type="text" maxlength="10" id="txtNombre" />
+
+                                @*@Html.Label("Nombre", "Descripcion:")
+                                    @Html.TextBox("Nombre")*@
+                            </td>
+                        </tr>
+                    </table>
+                    <input type="button" id="btnBuscarArticulo" value="Buscar Articulo" />
+                </div>
+                <div class="modal-body">
+
+                    <div id="ContenidoArticulos" class="">
+
+
+
+
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">Cancelar</button>
+                    <button type="button" id="btnAgregarArticulo" class="btn btn-primary btn-sm" data-dismiss="modal">Agregar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        @Html.ActionLink("Regresar", "Index")
+    </div>
+
+    <input type="hidden" id="hidCodigo" />
+
+</div>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+
+
+            $("#btlEliminarArticulo").click(function () {
+
+                if ($('#hidCodigo').val().length == 0) {
+                    alert("Seleccione un articulo")
+                }
+                else {
+                    var strUrl = '@Url.Action("EliminarArticulo", "Adquisicion")';
+                    $.ajax({
+                        type: 'GET',
+                        url: strUrl,
+                        contentType: "application/json; charset=utf-8",
+                        dataType: 'html',
+                        cache: true,
+                        data: { CodArticulo: $('#hidCodigo').val() },
+                        success: function (result) {
+                            console.log("Mostrando Resultado Eliminar");
+                            //LLENAR LISTA DE ARTICULOS
+                            $('div#ListaArticulosAdquisicion').html(result);
+                        },
+                        error: function (ex) {
+                            console.log(ex);
+                            //$('div#ContenidoArticulos').html('<div align="center"> Error al cargar los datos ... </div>');
+                        }
+                    });
+
+                }
+            });
+
+
+
+            $("#btnAgregarArticulo").click(function () {
+
+                var param = { CodArticulo: $('#hidCode').val(), Cantidad: $('#txtCantidad_' + $('#hidCode').val()).val() }
+                //console.log(param);
+
+                //alert($('#hidCode').val());
+
+                //alert(param.CodArticulo);
+                //alert(param.Cantidad);
+
+                var strUrl = '@Url.Action("RegistrarArticulos", "Adquisicion")';
+                $.ajax({
+                    type: 'GET',
+                    url: strUrl,
+                    contentType: "application/json; charset=utf-8",
+                    dataType: 'html',
+                    cache: true,
+                    data: { CodArticulo: $('#hidCode').val(), Cantidad: $('#txtCantidad_' + $('#hidCode').val()).val() },
+                    success: function (result) {
+                        //$('div#ContenidoArticulos').html(result);
+                        ////$('#btnGrabar').attr('disabled', false);
+                        console.log("Mostrando Resultado");
+                        //LLENAR LISTA DE ARTICULOS
+                        $('div#ListaArticulosAdquisicion').html(result);
+                    },
+                    error: function (ex) {
+                        console.log(ex);
+                        //$('div#ContenidoArticulos').html('<div align="center"> Error al cargar los datos ... </div>');
+                    }
+                });
+
+            });
+
+
+            $("#btnBuscarArticulo").click(function () {
+
+                if ($("#txtCodArticulo").val().length == 0 && $("#txtNombre").val().length == 0) {
+                    alert("es necesario ingresar los datos de busqueda");
+                }
+                else {
+                    var strUrl = '@Url.Action("BuscarArticulos", "Adquisicion")';
+                    $.ajax({
+                        type: 'GET',
+                        url: strUrl,
+                        contentType: "application/json; charset=utf-8",
+                        dataType: 'html',
+                        cache: true,
+                        data: { CodArticulo: $('#txtCodArticulo').val(), Nombre: $('#txtNombre').val() },
+                        success: function (result) {
+                            $('div#ContenidoArticulos').html(result);
+                            //$('#btnGrabar').attr('disabled', false);
+                        },
+                        error: function (ex) {
+                            console.log(ex);
+                            $('div#ContenidoArticulos').html('<div align="center"> Error al cargar los datos ... </div>');
+                        }
+                    });
+                }
+            });
+
+        });
+
+
+        function SelectArticulo(obj) {
+            Codigo = obj.value;
+            console.log(Codigo);
+            $('#hidCodigo').val(Codigo);
+        };
+
+    </script>

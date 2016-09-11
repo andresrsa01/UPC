@@ -44,3 +44,19 @@ C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\In
 C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.csprojResolveAssemblyReference.cache
 C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.dll
 C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.dll.config
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\EntityFramework.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.Common.Core.Entities.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.Common.Core.ORM.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.Common.Core.Entities.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.Common.Core.ORM.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\EntityFramework.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.csprojResolveAssemblyReference.cache
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Infraestructure.Data\obj\Debug\Innova.GMantenimiento.Infraestructure.Data.pdb

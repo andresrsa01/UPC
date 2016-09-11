@@ -1,0 +1,57 @@
+﻿@model GMSTp2.DataModel.Tarea
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+
+@using (Html.BeginForm())
+{
+@Html.AntiForgeryToken()
+
+    <div class="panel panel-widget forms-panel">
+        <div class="forms">
+            <div class=" form-grids form-grids-right">
+                <div class="widget-shadow " data-example-id="basic-forms">
+                    <div class="form-title">
+                        <h4>Registro de Tareas de Mantenimiento :</h4>
+                    </div>
+                    <div class="form-body">
+                        <form class="form-horizontal" action="#" method="post">
+                            <div class="form-group"> 
+                                @Html.LabelFor(model => model.NomTarea, "Nombre de Tarea" ,htmlAttributes: new { @class = "col-sm-2 control-label" })
+                                <div class="col-sm-9"> 
+                                    @Html.EditorFor(model => model.NomTarea, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.NomTarea, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                            <div class="form-group"> 
+                                @Html.LabelFor(model => model.AbrevTarea, "Abreviatura de Tarea", htmlAttributes: new { @class = "col-sm-2 control-label" })
+                                <div class="col-sm-9">
+                                    @Html.EditorFor(model => model.AbrevTarea, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.AbrevTarea, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                            <div class="col-sm-offset-2">
+                                <button type="submit" class="btn btn-default w3ls-button">Guardar</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+@Html.ValidationSummary(true, "", new { @class = "text-danger" })
+     
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

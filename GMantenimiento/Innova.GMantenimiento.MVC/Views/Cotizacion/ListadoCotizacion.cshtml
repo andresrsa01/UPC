@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Innova.GMantenimiento.MVC.Models.Cotizacion>
+
+@{
+    ViewBag.Title = "ListadoCotizacion";
+}
+
+<br />
+<br />
+
+@using (Html.BeginForm("ListadoCotizacion", "Cotizacion", FormMethod.Post))
+{
+    <div row>
+        <div class="col-md-10 col-lg-offset-1">
+            <input type="text" name="codigo" />
+            <input type="submit" value="Buscar" />
+        </div>
+    </div>
+}
+
+<div class="row">
+    <div class="col-md-10 col-lg-offset-1">
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.CodSolCotizacion)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.FechaCotizacion)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CodProveedor)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CodEstado)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CodCotizacion)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CodSolCotizacion)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FechaCotizacion)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CodProveedor)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CodEstado)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CodCotizacion)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Ver", "VerCotizacion", new { codigo = item.CodCotizacion }) |
+                        @Html.ActionLink("Eliminar", "EliminarCotizacion", new { codigo = item.CodCotizacion })
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>

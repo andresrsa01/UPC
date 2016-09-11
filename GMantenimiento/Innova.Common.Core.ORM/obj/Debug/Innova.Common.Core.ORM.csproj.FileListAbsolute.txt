@@ -34,3 +34,15 @@ C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\In
 C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.ORM\obj\Debug\Innova.Common.Core.ORM.csprojResolveAssemblyReference.cache
 C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.ORM\obj\Debug\Innova.Common.Core.ORM.dll
 C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.Common.Core.ORM\obj\Debug\Innova.Common.Core.ORM.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\Innova.Common.Core.ORM.dll.config
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\Innova.Common.Core.ORM.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\Innova.Common.Core.ORM.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\EntityFramework.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\Innova.Common.Core.Entities.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\Innova.Common.Core.Entities.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\EntityFramework.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.ORM\obj\Debug\Innova.Common.Core.ORM.csprojResolveAssemblyReference.cache
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.ORM\obj\Debug\Innova.Common.Core.ORM.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.Common.Core.ORM\obj\Debug\Innova.Common.Core.ORM.pdb

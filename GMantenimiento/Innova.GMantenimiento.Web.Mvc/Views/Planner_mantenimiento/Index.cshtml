@@ -1,0 +1,149 @@
+﻿@model IEnumerable<GMSTp2.DataModel.Planner_mantenimiento>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="content-body">
+    <div class="breadcrumbs">
+        :: Usted se encuentra en: <span>GENERAR PLANNER</span><span class="nivel-bread">/</span><span class="active-view">BÚSQUEDA</span>
+    </div>
+    <div class="main-colum">
+        <!-- wrap -->
+        <div class="box-wrap-main">
+            <div class="box-wrap-header">
+                <div class="pull-left">
+                    <div class="title-main">
+                       GENERAR PLANNER
+                    </div>
+                </div>
+                <div class="pull-right"> 
+                </div>
+            </div>
+            <div class="box-wrap-body">
+                <h3 class="title-form">FILTROS DE BÚSQUEDA</h3>
+                <div class="box-form">
+                    <div class="row"> 
+                        <div class="col-xs-4">
+                            <div class="form-group">
+                                <label>Periodo:</label>
+                                @Html.DropDownList("CodPeriodo",
+                                    new GMSTp2.WebSite.Controllers.Periodo_AcademicoController().Combo(),
+                                    "--- Escoja Valor ---",
+                                    new { @class = "form-control", @value = new GMSTp2.WebSite.Controllers.Periodo_AcademicoController().ObtenerActual().CodPeriodo })
+                            </div>
+                        </div>
+                        <div class="col-xs-4">
+                            <div class="form-group">
+                                <label>Mes:</label>
+                                <select name="mes" id="mes" class="form-control">
+                                   @for (int i = 1; i < 13; i++) {
+                                       string nombre_mes = new DateTime(DateTime.Today.Year , i, 1).ToString("MMMM", System.Globalization.CultureInfo.CreateSpecificCulture("es"));
+                                       <option value="@i">@nombre_mes.ToUpper()</option> 
+                                   }
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-xs-4">
+                            <div class="form-group">
+                                <label>Codigo de Planner:</label>
+                                @Html.DropDownList("CodPeriodo",
+                                    new GMSTp2.WebSite.Controllers.Planner_mantenimientoController().Combo(),
+                                    "--- Escoja Valor ---",
+                                    new { @class = "form-control" })
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="box-acciones">
+                    <div class="col-xs-4">
+                        <!-- alerta -->
+                        <div class="alert-custom" style="display:none;">
+                            <div class="alert alert-danger" role="alert">
+                                <i class="fa fa-warning"></i>Error: Debe seleccionar al menos un filtro
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pull-right">
+                        <input type="submit" class="btn-s btn-search" value="Buscar"> 
+                        @Html.ActionLink("Generar Planner", "Create", null, new { @class= "btn-s btn-add" })
+                        <input type="submit" class="btn-s btn-add" formaction="@Url.Action("Create")" value="Generar Planner " />
+                        <button class="btn-s btn-clean" onclick="limpiar();">Limpiar</button>
+                    </div>
+                </div>
+                <div class="grilla-pag">
+                    <div class="pull-left">
+                        <h3 class="title-grilla">RESULTADOS</h3>
+                    </div>
+                    <div class="pull-right">
+                        <div class="paginacion">
+                            <input type="button" value="" class="btn-anterior">
+                            <span class="list-cantidad">( 1-20 de 20 )</span>
+                            <input type="button" value="" class="btn-siguiente">
+                        </div>
+                    </div>
+                </div>
+                <div class="table-responsive">
+                    <table class="table table-striped table-bordered table-hover text-center text-middle">
+                        <thead>
+                            <tr>
+                                <td>
+                                    CODIGO PLANNER
+                                </td>
+                                <td>
+                                    FECHA INICIO
+                                </td>
+                                <td>
+                                    FECHA FIN
+                                </td>
+                                <td>
+                                    FECHA REGISTRO
+                                </td>
+                                <td>
+                                    OPCIONES
+                                </td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.codigo)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.FechaInicio)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.FechaFin)
+                                    </td> 
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.FechaRegistro)
+                                    </td>
+                                    <td>
+                                        @if (item.CodEstado == 1)
+                                        {
+                                        @Html.ActionLink(
+                                                       "APROBAR",                                                  // linkText
+                                                       "Aprobar",                                    // actionName
+                                                       "Planner_mantenimiento",
+                                                       new
+                                                       {                                                     // htmlAttributes
+                                                           id = item.CodPlanner
+                                                       }, new { onclick = "return confirm('Desea Aprobar el Planner?');" })
+                                        }
+                                        else {
+                                            @String.Format("{0}", (item.CodEstado == 3 ? "APROBADO":"ELIMINADO"))
+                                        }
+                                    </td>
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <!-- cierra wrap -->
+    </div>
+</div>

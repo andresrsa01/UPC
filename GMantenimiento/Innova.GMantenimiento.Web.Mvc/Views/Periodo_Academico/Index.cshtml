@@ -1,0 +1,51 @@
+﻿@model IEnumerable<GMSTp2.DataModel.Periodo_Academico>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NomPeriodo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NomActividad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FechaInicio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FechaFin)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NomPeriodo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NomActividad)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FechaInicio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FechaFin)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.CodPeriodo }) |
+            @Html.ActionLink("Details", "Details", new { id=item.CodPeriodo }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.CodPeriodo })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,50 @@
+﻿@model GMSTp2.DataModel.Articulo
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Articulo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NomArticulo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomArticulo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UnidMedida)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UnidMedida)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Modelo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Modelo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Observacion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Observacion)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CodArticulo }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

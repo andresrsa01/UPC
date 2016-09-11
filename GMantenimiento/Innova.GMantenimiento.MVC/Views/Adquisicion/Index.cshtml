@@ -1,0 +1,103 @@
+﻿@model IEnumerable<Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.ItemSolAdquisicion>
+
+
+<div class="content-body">
+    @{
+        ViewBag.Title = "Index";
+    }
+
+    <h2>Index</h2>
+
+
+    <div class="row">
+        @using (Html.BeginForm(null, null, FormMethod.Get))
+        {
+            <h4>FILTROS DE BUSQUEDA</h4>
+            <table>
+                <tr>
+                    <td>
+                        @Html.Label("CodigoSolicitudAdquision", "Código de Sol. Adquisición:")
+                        @Html.TextBox("CodigoSolicitudAdquision")
+                    </td>
+                    <td>
+                        @Html.Label("Solicitante", "Solicitante:")
+                        @Html.TextBox("Solicitante")
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.Label("Area", "Área:")
+                        @Html.TextBox("Area")
+                    </td>
+                    <td>
+                        @Html.Label("Estado", "Estado:")
+                        @Html.TextBox("Estado")
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.Label("FechaInicio", "F. Emisión Inicio:")
+                        @Html.TextBox("FechaInicio")
+                    </td>
+                    <td>
+                        @Html.Label("FechaFin", "F. Emisión Fin:")
+                        @Html.TextBox("FechaFin")
+                    </td>
+                </tr>
+            </table>
+            <br />
+            <input type="submit" value="Buscar" />
+        }
+    </div>
+
+    <br />
+    <div class="row">
+        <table class="table">
+            <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.CodSolAdquisicion)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Solicitante)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.FechaEmision)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Estado)
+                </th>
+                <th></th>
+            </tr>
+            </thead>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CodSolAdquisicion)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Solicitante)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FechaEmision)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Estado)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Editar", "EditarAdquisicion", new { CodSolAdquisicion = item.CodSolAdquisicion }) |
+                        @Html.ActionLink("Consultar", "ConsultarAdquisicion", new { CodSolAdquisicion = item.CodSolAdquisicion }) |
+                        @Html.ActionLink("Eliminar", "EliminarAdquisicion", new { CodSolAdquisicion = item.CodSolAdquisicion }
+                                                                 , new { onclick = "return confirm('Esta seguro de eliminar el registro?');" })
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+    <br />
+    <p>
+        @Html.ActionLink("Nuevo", "NuevoAdquisicion", "Adquisicion")
+    </p>
+</div>

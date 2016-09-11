@@ -1,0 +1,119 @@
+﻿@model Innova.Modulo.Web.Mvc.Models.SolicitudAdquisionModel
+
+@{
+    ViewBag.Title = "ConsultarAdquisicion";
+}
+
+<div class="content-body">
+
+    <h2>EditarAdquisicion</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <div>
+                <dl class="dl-horizontal">
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.CodSolAdquisicion)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.CodSolAdquisicion)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Solicitante)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Solicitante)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.FechaEmision)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.FechaEmision)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Observacion)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Observacion)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.NroInforme)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.NroInforme)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.CodEstado)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.CodEstado)
+                    </dd>
+                </dl>
+            </div>
+        </div>
+
+
+        <div id="ListaArticulos">
+            <h4>Lista de Articulos </h4>
+            <br />
+            <div id="ListaArticulosAdquisicion">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Codigo Articulo</th>
+                            <th>Descripcion</th>
+                            <th>Marca</th>
+                            <th>Proveedor</th>
+                            <th>Unidad de Medida</th>
+                            <th>Cantidad</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Innova.Modulo.Web.Mvc.Models.ArticuloModel item in ViewBag.ListaArticulosAgre)
+                        {
+                            <tr>
+                                <td>@item.CodArticulo</td>
+                                <td>@item.Descripcion</td>
+                                <td>@item.Marca</td>
+                                <td>@item.Modelo</td>
+                                <td>@item.UnidadMedida</td>
+                                <td>@item.Cantidad</td>
+                            </tr>
+                        }
+                    </tbody>
+
+                </table>
+
+            </div>
+
+        </div>
+
+
+        <br />
+
+    }
+
+    <div>
+        @Html.ActionLink("Regresar", "Index")
+    </div>
+
+</div>

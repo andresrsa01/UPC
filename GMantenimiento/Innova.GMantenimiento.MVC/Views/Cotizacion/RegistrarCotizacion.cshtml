@@ -1,0 +1,84 @@
+﻿@model List<Innova.GMantenimiento.MVC.Models.Cotizacion>
+
+@{
+    ViewBag.Title = "Registrar Cotización";
+}
+
+@using (@Html.BeginForm("RegistrarCotizacion", "Cotizacion", FormMethod.Post))
+{
+    <br />
+    <br />
+    <div class="row">
+        <div class="col-md-10 col-lg-offset-1">
+            <input type="text" name="codigocotizacion" />
+            <input type="submit" id="BuscarAdquisicion" value="Buscar" name="Buscar"/>
+        </div>
+    </div>
+    <br />
+    <div class="col-md-10 col-lg-offset-1">
+
+        <table>
+            <tr>
+                <th>Datos de la cotización</th>
+            </tr>
+            <tr>
+                <th>Fecha</th>
+                <th>CodProveedor</th>
+                <th>CodEstado</th>
+                <th>CodSolCotización</th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.TextBox("FechaCotizacion", item.FechaCotizacion)
+                    </td>
+                    <td>
+                        @Html.TextBox("CodProveedor", item.CodProveedor)
+                    </td>
+                    <td>
+                        @Html.TextBox("CodEstado", item.CodEstado)                      
+                    </td>
+                    <td>
+                        @Html.TextBox("codigosolcotizacion", item.CodSolCotizacion)
+                    </td>
+                </tr>
+                break;
+            }
+        </table>
+
+
+    </div>
+    <br />
+    <div class="col-md-10 col-lg-offset-1">
+        <table>
+            <tr>
+                <th>Detalle</th>
+            </tr>
+            <tr>
+                <th>CodArticulo</th>
+                <th>Cantidad</th>
+                <th>Precio</th>
+            </tr>
+            @for (int i = 0; i < Model.Count; i++)
+                {
+                <tr>
+                    <td>@Html.EditorFor(model => model[i].CodArticulo)</td>
+                    <td>@Html.EditorFor(model => model[i].Cantidad)</td>
+                    <td>@Html.EditorFor(model => model[i].Precio)</td>
+                </tr>
+            }
+        </table>
+        <br />
+        <p><input type="submit" value="Save" /></p>
+        <p style="color:green; font-size:12px;">
+            @ViewBag.Message
+        </p>
+    </div>
+
+}
+@section Scripts{
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+

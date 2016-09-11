@@ -61,3 +61,24 @@ C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\In
 C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Domain\obj\Debug\Innova.GMantenimiento.Domain.csprojResolveAssemblyReference.cache
 C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Domain\obj\Debug\Innova.GMantenimiento.Domain.dll
 C:\Users\GEORGE_CALDERON\Documents\Visual Studio 2015\Projects\GMantenimiento\Innova.GMantenimiento.Domain\obj\Debug\Innova.GMantenimiento.Domain.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Domain\bin\Debug\Innova.GMantenimiento.Domain.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Domain\bin\Debug\Innova.GMantenimiento.Domain.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Domain\bin\Debug\Innova.Common.Core.Entities.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Domain\bin\Debug\Innova.Common.Utilities.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Domain\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Domain\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Domain\bin\Debug\log4net.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Domain\bin\Debug\itextsharp.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Domain\bin\Debug\Innova.Common.Core.ORM.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Domain\bin\Debug\EntityFramework.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Domain\bin\Debug\Innova.Common.Core.Entities.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Domain\bin\Debug\Innova.Common.Utilities.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Domain\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.CompositeEntities.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Domain\bin\Debug\Innova.GMantenimiento.Infraestructure.Data.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Domain\bin\Debug\log4net.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Domain\bin\Debug\itextsharp.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Domain\bin\Debug\Innova.Common.Core.ORM.pdb
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Domain\bin\Debug\EntityFramework.xml
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Domain\obj\Debug\Innova.GMantenimiento.Domain.csprojResolveAssemblyReference.cache
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Domain\obj\Debug\Innova.GMantenimiento.Domain.dll
+C:\Users\GEORGE_CALDERON\Documents\GitHub\UPC\GMantenimiento\Innova.GMantenimiento.Domain\obj\Debug\Innova.GMantenimiento.Domain.pdb

@@ -1,0 +1,99 @@
+﻿@model Innova.Modulo.Web.Mvc.Models.ArticuloModel
+
+@{
+    Layout = null;
+    ViewBag.Title = "BuscarArticulos";
+}
+
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Sel</th>
+            <th>Codigo Articulo</th>
+            <th>Descripcion</th>
+            <th>Marca</th>
+            <th>Proveedor</th>
+            <th>Unidad de Medida</th>
+            <th>Cantidad</th>
+            @*<th>Agregar</th>*@
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Innova.Modulo.Web.Mvc.Models.ArticuloModel item in ViewBag.ListArticulos)
+        {
+            <tr>
+                <td>
+                    <input type="radio" class="radio" name="optionsRadios" id="optionsRadios_@item.CodArticulo" value="@item.CodArticulo" onclick="javascript: Select(this);">
+                </td>
+                <td>@item.CodArticulo</td>
+                <td>@item.Descripcion</td>
+                <td>@item.Marca</td>
+                <td>@item.Modelo</td>
+                <td>@item.UnidadMedida</td>
+                <td>
+                    <input type="number" id="txtCantidad_@item.CodArticulo"/> 
+                </td>
+                @*<td>
+                    <input type="button" id="linkAgregar" value="Agregar" />
+                </td>*@
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+<input type="hidden" id="hidCode" />
+
+
+        @*<input type="button" id="linkAgregar" value="Agregar" />*@
+
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+        var Code;
+
+        @*$("#linkAgregar").click(function () {
+
+            var param = { CodArticulo: $('#hidCode').val(), Cantidad: $('#txtCantidad_' + $('#hidCode').val()).val() }
+            //console.log(param);
+
+            //alert($('#hidCode').val());
+
+            //alert(param.CodArticulo);
+            //alert(param.Cantidad);
+
+            var strUrl = '@Url.Action("RegistrarArticulos", "Adquisicion")';
+            $.ajax({
+                type: 'GET',
+                url: strUrl,
+                contentType: "application/json; charset=utf-8",
+                dataType: 'html',
+                cache: true,
+                data: { CodArticulo: $('#hidCode').val(), Cantidad: $('#txtCantidad_' + $('#hidCode').val()).val() },
+                success: function (result) {
+                    //$('div#ContenidoArticulos').html(result);
+                    ////$('#btnGrabar').attr('disabled', false);
+                    
+                },
+                error: function (ex) {
+                    console.log(ex);
+                    //$('div#ContenidoArticulos').html('<div align="center"> Error al cargar los datos ... </div>');
+                }
+            });
+
+        });*@
+
+    });
+
+    function Select(obj) {
+        Code = obj.value;
+        console.log(Code);
+        $('#hidCode').val(Code);
+    };
+
+</script>
