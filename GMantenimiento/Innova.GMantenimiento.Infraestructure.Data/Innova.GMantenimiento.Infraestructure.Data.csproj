@@ -53,7 +53,10 @@
     <Compile Include="DA_Articulo.cs" />
     <Compile Include="DA_Cotizacion.cs" />
     <Compile Include="DA_CotizacionDet.cs" />
+    <Compile Include="DA_Empleado.cs" />
     <Compile Include="DA_Instalacion.cs" />
+    <Compile Include="DA_OrdenCompra.cs" />
+    <Compile Include="DA_OrdenCompraDet.cs" />
     <Compile Include="DA_PeriodoAcademico.cs" />
     <Compile Include="DA_PlannerMantenimiento.cs" />
     <Compile Include="DA_Programacion.cs" />

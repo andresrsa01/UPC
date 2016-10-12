@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="BL_Articulo.cs" />
     <Compile Include="BL_Instalacion.cs" />
+    <Compile Include="BL_OrdenCompra.cs" />
     <Compile Include="BL_PeriodoAcademico.cs" />
     <Compile Include="BL_PlannerMantenimiento.cs" />
     <Compile Include="BL_Programacion.cs" />
@@ -50,6 +51,7 @@
     <Compile Include="BL_Tarea.cs" />
     <Compile Include="BL_TransaccionCotizacion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="BL_TransaccionOrdenCompra.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Innova.Common.Core.Entities\Innova.Common.Core.Entities.csproj">

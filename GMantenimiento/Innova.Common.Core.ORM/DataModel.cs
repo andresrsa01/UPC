@@ -9,7 +9,7 @@ namespace Innova.Common.Core.ORM
     public partial class DataModel : DbContext
     {
         public DataModel()
-            : base("name=DataModelo")
+            : base("name=DataModel")
         {
         }
 
@@ -27,7 +27,13 @@ namespace Innova.Common.Core.ORM
         public virtual DbSet<tb_Grado> tb_Grado { get; set; }
         public virtual DbSet<tb_Guia> tb_Guia { get; set; }
         public virtual DbSet<tb_Instalacion> tb_Instalacion { get; set; }
+        public virtual DbSet<tb_NotDespacho> tb_NotDespacho { get; set; }
+        public virtual DbSet<tb_NotDespachoDet> tb_NotDespachoDet { get; set; }
+        public virtual DbSet<tb_NotIngreso> tb_NotIngreso { get; set; }
+        public virtual DbSet<tb_NotIngresoDet> tb_NotIngresoDet { get; set; }
         public virtual DbSet<tb_Observacion> tb_Observacion { get; set; }
+        public virtual DbSet<tb_OrdCompra> tb_OrdCompra { get; set; }
+        public virtual DbSet<tb_OrdCompraDet> tb_OrdCompraDet { get; set; }
         public virtual DbSet<tb_Periodo_Academico> tb_Periodo_Academico { get; set; }
         public virtual DbSet<tb_Plan_Area> tb_Plan_Area { get; set; }
         public virtual DbSet<tb_Plan_Asignatura> tb_Plan_Asignatura { get; set; }
@@ -213,6 +219,26 @@ namespace Innova.Common.Core.ORM
                 .Property(e => e.AbrevInstalacion)
                 .IsUnicode(false);
 
+            modelBuilder.Entity<tb_NotDespacho>()
+                .Property(e => e.CodEstado)
+                .IsUnicode(false);
+
+            modelBuilder.Entity<tb_NotDespachoDet>()
+                .Property(e => e.Cantidad)
+                .HasPrecision(10, 2);
+
+            modelBuilder.Entity<tb_NotIngreso>()
+                .Property(e => e.CodEstado)
+                .IsUnicode(false);
+
+            modelBuilder.Entity<tb_NotIngreso>()
+                .Property(e => e.Moneda)
+                .IsUnicode(false);
+
+            modelBuilder.Entity<tb_NotIngreso>()
+                .Property(e => e.NroGuiaRemision)
+                .IsUnicode(false);
+
             modelBuilder.Entity<tb_Observacion>()
                 .Property(e => e.Observacion)
                 .IsUnicode(false);
@@ -220,6 +246,34 @@ namespace Innova.Common.Core.ORM
             modelBuilder.Entity<tb_Observacion>()
                 .Property(e => e.Tipo)
                 .IsUnicode(false);
+
+            modelBuilder.Entity<tb_OrdCompra>()
+                .Property(e => e.CodEstado)
+                .IsUnicode(false);
+
+            modelBuilder.Entity<tb_OrdCompra>()
+                .Property(e => e.Moneda)
+                .IsUnicode(false);
+
+            modelBuilder.Entity<tb_OrdCompra>()
+                .Property(e => e.TipCambio)
+                .HasPrecision(10, 2);
+
+            modelBuilder.Entity<tb_OrdCompra>()
+ .Property(e => e.Total)
+ .HasPrecision(10, 2);
+
+            modelBuilder.Entity<tb_OrdCompraDet>()
+                .Property(e => e.Cantidad)
+                .HasPrecision(10, 2);
+
+            modelBuilder.Entity<tb_OrdCompraDet>()
+                .Property(e => e.PreUnitario)
+                .HasPrecision(10, 2);
+
+            modelBuilder.Entity<tb_OrdCompraDet>()
+                .Property(e => e.Descuento)
+                .HasPrecision(10, 2);
 
             modelBuilder.Entity<tb_Periodo_Academico>()
                 .Property(e => e.Nombre)

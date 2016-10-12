@@ -197,8 +197,10 @@
     <Compile Include="Controllers\AdquisicionController.cs" />
     <Compile Include="Controllers\ArticuloesController.cs" />
     <Compile Include="Controllers\CotizacionController.cs" />
+    <Compile Include="Controllers\Empleado.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\InstalacionsController.cs" />
+    <Compile Include="Controllers\OrdenCompraController.cs" />
     <Compile Include="Controllers\Periodo_AcademicoController.cs" />
     <Compile Include="Controllers\Planner_mantenimientoController.cs" />
     <Compile Include="Controllers\SeguimientoController.cs" />
@@ -209,8 +211,10 @@
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Cotizacion.cs" />
     <Compile Include="Models\CotizacionDet.cs" />
+    <Compile Include="Models\Empleados.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\OrdenCompra.cs" />
     <Compile Include="Models\SolCotizacion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
@@ -339,6 +343,8 @@
     <Content Include="Views\Cotizacion\ListadoCotizacion.cshtml" />
     <Content Include="Views\Cotizacion\ListadoSolCotizacion.cshtml" />
     <Content Include="Views\Cotizacion\VerCotizacion.cshtml" />
+    <Content Include="Views\Cotizacion\RegistrarCompra.cshtml" />
+    <Content Include="Views\OrdenCompra\ListaOrden.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

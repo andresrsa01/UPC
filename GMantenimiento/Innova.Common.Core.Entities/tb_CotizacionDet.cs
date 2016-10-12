@@ -21,5 +21,6 @@ namespace Innova.Common.Core.Entities
         public int? Cantidad { get; set; }
 
         public decimal? Precio { get; set; }
+
     }
 }

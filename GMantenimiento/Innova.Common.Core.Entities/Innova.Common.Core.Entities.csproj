@@ -52,11 +52,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="tb_BuscarCotizacion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="tb_Area.cs" />
     <Compile Include="tb_Articulo.cs" />
     <Compile Include="tb_Asignatura.cs" />
+    <Compile Include="tb_BuscarCotizacion.cs" />
     <Compile Include="tb_BuscarSolCotizacion.cs" />
     <Compile Include="tb_Calidad_Mantenimiento.cs" />
     <Compile Include="tb_Cotizacion.cs" />
@@ -69,7 +69,13 @@
     <Compile Include="tb_Grado.cs" />
     <Compile Include="tb_Guia.cs" />
     <Compile Include="tb_Instalacion.cs" />
+    <Compile Include="tb_NotDespacho.cs" />
+    <Compile Include="tb_NotDespachoDet.cs" />
+    <Compile Include="tb_NotIngreso.cs" />
+    <Compile Include="tb_NotIngresoDet.cs" />
     <Compile Include="tb_Observacion.cs" />
+    <Compile Include="tb_OrdCompra.cs" />
+    <Compile Include="tb_OrdCompraDet.cs" />
     <Compile Include="tb_Periodo_Academico.cs" />
     <Compile Include="tb_Planner_Mantenimiento.cs" />
     <Compile Include="tb_Plan_Area.cs" />

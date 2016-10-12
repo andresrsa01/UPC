@@ -94,7 +94,7 @@ namespace Innova.GMantenimiento.MVC.Controllers
 
         public ActionResult ListadoCotizacion()
         {
-            List<tb_Cotizacion> lista = new BL_TransaccionCotizacion().BuscarCotizacion().Where(x=>x.CodEstado != "2").ToList();
+            List<tb_Cotizacion> lista = new BL_TransaccionCotizacion().BuscarCotizacion().Where(x => x.CodEstado != "2").ToList();
             List<Cotizacion> listacotiza = new List<Cotizacion>();
             foreach (var item in lista)
             {
@@ -248,6 +248,30 @@ namespace Innova.GMantenimiento.MVC.Controllers
 
                 });
             }
+            return View(listados);
+        }
+
+        public ActionResult RegistrarCompra(int codigo)
+        {
+            List<tb_BuscarCotizacion> lista = new BL_TransaccionCotizacion().VerCotizacion(codigo);
+            List<OrdenCompra> listados = new List<OrdenCompra>();
+            foreach (var item in lista)
+            {
+                listados.Add(new OrdenCompra()
+                {
+                    Cantidad = item.Cantidad,
+                    CodArticulo = item.CodArticulo,
+                    CodEstado = item.CodEstado,
+                    CodProveedor = item.CodProveedor,
+                    CodCotizacion = item.CodCotizacion,
+                    PreUnitario = item.Precio,
+                    FechaEmision = DateTime.Now,
+                    FechaEntrega = DateTime.Now
+
+                });
+            }
+
+            ViewBag.Empleado = new BL_OrdenCompra().empleados().ToList();
             return View(listados);
         }
     }

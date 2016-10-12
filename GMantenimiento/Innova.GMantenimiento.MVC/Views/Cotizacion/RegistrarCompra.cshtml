@@ -1,0 +1,108 @@
+﻿@model List<Innova.GMantenimiento.MVC.Models.OrdenCompra>
+
+@{
+    ViewBag.Title = "RegistrarCompra";
+}
+
+@using (@Html.BeginForm("RegistrarCompra", "OrdenCompra", FormMethod.Post))
+{
+    <br />
+    <br />
+    @*<div class="row">
+            <div class="col-md-10 col-lg-offset-1">
+                <input type="text" name="codigocotizacion" />
+                <input type="submit" id="BuscarAdquisicion" value="Buscar" name="Buscar" />
+            </div>
+        </div>
+        <br />*@
+    <div class="col-md-8">
+
+        <table>
+            <tr>
+                <th>Datos de la Compra</th>
+            </tr>
+            <tr>
+                <th>CodFechaEmision</th>
+                <th>CodFechaEntrega</th>
+                <th>CodProveedor</th>
+                <th>CodEstado</th>
+                <th>Moneda</th>
+                <th>TipoCambio</th>
+                <th>CodEmpleado</th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.Editor("FechaEmision", item.FechaEmision)
+                    </td>
+                    <td>
+                        @Html.TextBox("FechaEntrega", item.FechaEntrega)
+                    </td>
+                    <td>
+                        @Html.DropDownList("CodProveedor", new SelectList(ViewBag.Empleado, "CodEmpleado", "ApePaterno"))
+                    </td>
+                    <td>
+                        @Html.TextBox("CodEstado", item.CodEstado)
+                    </td>
+                    <td>
+                        @Html.TextBox("Moneda", item.Moneda)
+                    </td>
+                    <td>
+                        @Html.TextBox("TipoCambio", item.TipCambio)
+                    </td>
+                    <td>
+                        @Html.TextBox("CodEmpleado", item.CodEmpleado)
+                    </td>
+                    <td>
+                        @Html.Hidden("CodCotizacion", item.CodCotizacion)
+                    </td>
+                </tr>
+                break;
+            }
+        </table>
+
+
+    </div>
+    <br />
+    <div class="col-md-10 col-lg-offset-1">
+        <table>
+            <tr>
+                <th>Detalle</th>
+            </tr>
+            <tr>
+                <th>CodArticulo</th>
+                <th>Cantidad</th>
+                <th>Precio UNI</th>
+                <th>Descuento</th>
+            </tr>
+            @for (int i = 0; i < Model.Count; i++)
+                {
+                <tr>
+                    <td>@Html.EditorFor(model => model[i].CodArticulo)</td>
+                    <td>@Html.EditorFor(model => model[i].Cantidad)</td>
+                    <td>@Html.EditorFor(model => model[i].PreUnitario)</td>
+                    <td>@Html.EditorFor(model => model[i].Descuento)</td>
+                </tr>
+            }
+        </table>
+        <br />
+        <p><input type="submit" value="Save" /></p>
+        <p style="color:green; font-size:12px;">
+            @ViewBag.Message
+        </p>
+    </div>
+
+}
+
+@section Scripts{
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+
+
+
+
+
+
+

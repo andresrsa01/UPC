@@ -59,7 +59,8 @@
                     </td>
                     <td>
                         @Html.ActionLink("Ver", "VerCotizacion", new { codigo = item.CodCotizacion }) |
-                        @Html.ActionLink("Eliminar", "EliminarCotizacion", new { codigo = item.CodCotizacion })
+                        @Html.ActionLink("Eliminar", "EliminarCotizacion", new { codigo = item.CodCotizacion }) |
+                        @Html.ActionLink("Orden Compra", "RegistrarCompra", new { codigo = item.CodCotizacion })
                     </td>
                 </tr>
             }

@@ -1,0 +1,85 @@
+﻿@model IEnumerable<Innova.GMantenimiento.MVC.Models.OrdenCompra>
+
+@{
+    ViewBag.Title = "ListaOrden";
+}
+
+<br />
+<br />
+@using (Html.BeginForm("ListaOrden", "OrdenCompra", FormMethod.Post))
+{
+    <div row>
+        <div class="col-md-10 col-lg-offset-1">
+            <input type="text" name="codigo" />
+            <input type="submit" value="Buscar" />
+        </div>
+    </div>
+}
+
+<div class="row">
+    <div class="col-md-10 col-lg-offset-1">
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.CodOrdCompra)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.FechaEmision)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.FechaEntrega)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CodEstado)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Moneda)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TipCambio)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CodEmpleado)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Total)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CodOrdCompra)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FechaEmision)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FechaEntrega)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CodEstado)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Moneda)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TipCambio)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CodEmpleado)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Total)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Anular Orden", "AnularOrdenCompra", new { codigo = item.CodOrdCompra })
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+</div>

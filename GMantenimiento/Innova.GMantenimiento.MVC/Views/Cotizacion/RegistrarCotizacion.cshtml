@@ -11,7 +11,7 @@
     <div class="row">
         <div class="col-md-10 col-lg-offset-1">
             <input type="text" name="codigocotizacion" />
-            <input type="submit" id="BuscarAdquisicion" value="Buscar" name="Buscar"/>
+            <input type="submit" id="BuscarAdquisicion" value="Buscar" name="Buscar" />
         </div>
     </div>
     <br />
@@ -29,6 +29,7 @@
             </tr>
             @foreach (var item in Model)
             {
+                <
                 <tr>
                     <td>
                         @Html.TextBox("FechaCotizacion", item.FechaCotizacion)
@@ -37,7 +38,7 @@
                         @Html.TextBox("CodProveedor", item.CodProveedor)
                     </td>
                     <td>
-                        @Html.TextBox("CodEstado", item.CodEstado)                      
+                        @Html.TextBox("CodEstado", item.CodEstado)
                     </td>
                     <td>
                         @Html.TextBox("codigosolcotizacion", item.CodSolCotizacion)
